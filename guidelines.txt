@@ -1,0 +1,8 @@
+Time A - Time que ele está
+Time B - Time que ele está indo
+1- Calcular a importância do jogador para um time e para outro:
+	1- Dado o jogador, coletar o time que ele joga atualmente e o time que ele poderá ir
+	2- Calcular a média das habilidades daquele jogador (overall) e comparar com os outros jogadores
+	3- Calcular a importância do jogador através da divisão overall_jogador_comparado/(overall_melhor_jogador_na_posicao (do time A, e do time B))
+	4- Calcular o valor financeiro do montante a ser pago para o time A e para o time B (divido para valor do jogador mais caro da equipe)
+	5- Verificar para com os dados se os times seguem o modelo proposto
