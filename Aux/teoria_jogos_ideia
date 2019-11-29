@@ -1,0 +1,3 @@
+Um algoritmo genético que tem que montar o melhor time, seguindo o modelo de payoff proposto no trabalho de teoria dos jogos.
+
+Os individuos serão como os agentes, irão funcionar sempre querendo maximar um fitness (payoff).

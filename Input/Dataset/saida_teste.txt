@@ -1,0 +1,394 @@
+Spain	11/04/1985	9000000	7000000	67	RM	Pablo Hernández	Valencia CF	Swansea	Sell
+Russia	20/01/1987	4000000	4000000	63	RM	Vladislav Ignatjev	Loko Moscow	Krasnodar	Sell
+France	8/01/1988	4000000	3700000	66	RW	Jirès Kembo-Ekoko	Stade Rennais	Al-Ain FC	Sell
+Sweden	3/10/1981	37000000	21000000	81	ST	Zlatan Ibrahimovic	AC Milan	Paris SG	Sell
+Colombia	3/10/1986	5000000	8890000	69	ST	Jackson Martínez	Chiapas FC	FC Porto	Sell
+England	29/07/1989	5000000	8650000	60	ST	Jay Rodríguez	Burnley	Southampton	Sell
+Slovakia	30/11/1989	3500000	1800000	63	RM	Vladimír Weiss	Man City	Pescara	Sell
+Chile	27/01/1986	3000000	1200000	60	RM	Fabián Orellana	Granada CF	Celta de Vigo	Sell
+Poland	1/08/1988	2400000	700000	66	RW	Patryk Malecki	Wisla Kraków	Eskisehirspor	Loan
+France	3/03/1990	4500000	4000000	64	ST	Emmanuel Rivière	Toulouse	Monaco	Sell
+Norway	15/07/1993	750000	2800000	50	ST	Havard Nielsen	Valerenga	RB Salzburg	Sell
+Sweden	14/06/1984	1500000	2000000	54	ST	Mathias Ranégie	Malmö	Udinese Calcio	Sell
+Argentina	16/05/1984	1500000	1500000	68	ST	Darío Cvitanich	AFC Ajax	OGC Nice	Sell
+France	27/12/1988	1500000	1500000	57	ST	Gaëtan Charbonnier	SCO Angers	Montpellier	Sell
+Slovenia	15/12/1983	1700000	1000000	66	ST	Zlatan Ljubijankic	KAA Gent	Omiya Ardija	Sell
+Serbia	7/06/1985	1800000	1000000	47	ST	Dejan Lekic	CA Osasuna	Genclerbirligi	Sell
+Tunisia	23/02/1989	300000	700000	60	ST	Ahmed Akaichi	FC Ingolstadt	Esperance	Sell
+Portugal	8/08/1991	6000000	600000	65	ST	Nélson Oliveira	Benfica	Dep. La Coruña	Loan
+Turkey	3/01/1980	2500000	400000	67	CF	Necati Ates	Galatasaray	Eskisehirspor	Sell
+Slovenia	14/07/1984	15000000	15000000	29	GK	Samir Handanovic	Udinese Calcio	Inter	Sell
+Turkey	5/09/1988	12000000	5000000	71	CM	Nuri Sahin	Real Madrid	Liverpool	Loan
+Croatia	9/09/1985	40000000	30000000	73	CAM	Luka Modric	Spurs	Real Madrid	Sell
+Turkey	26/05/1987	1250000	800000	63	LM	Olcay Sahan	1.FC K'lautern	Besiktas	Sell
+Germany	4/08/1980	1000000	300000	64	LM	Benjamin Köhler	E. Frankfurt	1.FC K'lautern	Sell
+Slovenia	6/09/1984	1600000	300000	63	LW	Andraz Kirm	Wisla Kraków	FC Groningen	Sell
+Croatia	13/08/1984	7500000	7000000	67	CAM	Niko Kranjcar	Spurs	Dynamo Kyiv	Sell
+Argentina	14/04/1984	5000000	6000000	70	CAM	Wálter Montillo	Cruzeiro	Santos FC	Sell
+Bosnia Herzegovina	5/06/1982	6500000	3500000	63	CAM	Zvjezdan Misimovic	Dinamo Moscow	BJ Renhe	Sell
+Ivory Coast	1/07/1988	1500000	3000000	66	CDM	Thierry Doubai	Udinese Calcio	FC Sochaux	Sell
+Chile	8/10/1990	1600000	2800000	59	LM	Felipe Gutiérrez	CDUC	FC Twente	Sell
+Sweden	17/04/1990	1000000	1700000	63	CM	Astrit Ajdarević	Norrköping	Standard Liège	Sell
+Denmark	9/05/1984	2500000	1500000	63	CM	Jesper Jörgensen	KAA Gent	Club Brugge	Sell
+Poland	10/11/1992	4000000	2700000	56	CAM	Rafal Wolski	Legia Warszawa	Fiorentina	Sell
+Brazil	10/04/1989	750000	1500000	59	LM	Éverton Ribeiro	Coritiba FC	Cruzeiro	Sell
+Croatia	20/12/1983	8500000	1500000	70	CDM	Ognjen Vukojevic	Dynamo Kyiv	Spartak Moscow	Loan
+Turkey	5/09/1988	15000000	1000000	71	CM	Nuri Sahin	Real Madrid	Bor. Dortmund	Loan
+Serbia	22/09/1987	5500000	1200000	70	CM	Zdravko Kuzmanović	VfB Stuttgart	Inter	Sell
+Morocco	16/08/1988	1750000	600000	61	CAM	Ismail Aissati	AFC Ajax	Antalyaspor	Sell
+Serbia	8/03/1989	2000000	600000	61	CDM	Radosav Petrovic	Blackburn	Genclerbirligi	Sell
+Turkey	25/12/1987	800000	200000	48	CB	Ceyhun Gülselam	Galatasaray	Kayserispor	Loan
+Uruguay	17/11/1985	1100000	400000	70	CAM	Luis Aguiar	Sporting CP	San Lorenzo	Sell
+Slovenia	5/07/1988	1000000	120000	64	CM	Rene Mihelic	Nacional	Levski Sofia	Loan
+Croatia	4/02/1991	400000	230000	60	CM	Zvonko Pamic	Bay. Leverkusen	Dinamo Zagreb	Sell
+Slovenia	5/07/1988	1000000	120000	64	CM	Rene Mihelic	Nacional	Levski Sofia	Loan
+Spain	2/09/1988	30000000	40000000	65	CDM	Javi Martínez	Athletic Bilbao	Bayern Munich	Sell
+Serbia	28/03/1993	5500000	15200000	43	CB	Matija Nastasic	Fiorentina	Man City	Sell
+Croatia	5/02/1986	7500000	7000000	59	RB	Vedran Corluka	Spurs	Loko Moscow	Sell
+Brazil	5/11/1986	2500000	5000000	57	CB	Leandro Castán	Corinthians	AS Roma	Sell
+Netherlands	11/02/1989	3000000	5000000	65	LW	Alexander Büttner	Vitesse	Man Utd	Sell
+Argentina	7/01/1989	10000000	3500000	72	LB	Emiliano Insúa	Sporting CP	Atlético Madrid	Sell
+Senegal	2/12/1992	2000000	2500000	54	LB	Massadio Haidara	AS Nancy	Newcastle	Sell
+Belgium	1/08/1987	3200000	2000000	67	LB	Sébastien Pocognoli	Standard Liège	Hannover 96	Sell
+Brazil	19/09/1990	9000000	10500000	63	RB	Mário Fernandes	Grêmio	CSKA Moscow	Sell
+Brazil	11/06/1989	2000000	3000000	67	RB	Fágner	Vasco da Gama	VfL Wolfsburg	Sell
+Argentina	25/09/1984	9000000	3000000	56	CB	Matías Silvestre	US Palermo	Inter	Loan
+Cameroon	9/07/1986	4500000	3000000	57	CB	Sébastien Bassong	Spurs	Norwich	Sell
+Uruguay	1/04/1989	800000	800000	60	RM	Matías Aguirregaray	Wanderers	CFR Cluj	Sell
+Serbia	31/08/1983	6000000	2750000	55	CB	Milan Bisevac	Paris SG	Olympique Lyon	Sell
+Argentina	10/04/1984	7000000	1500000	59	CB	Gonzalo Rodríguez	Villarreal CF	Fiorentina	Sell
+Uruguay	21/03/1984	850000	1000000	50	CB	Guillermo Rodríguez	AC Cesena	Torino	Sell
+Bosnia Herzegovina	11/02/1987	1300000	625000	57	CB	Ervin Zukanovic	KV Kortrijk	KAA Gent	Sell
+Bosnia Herzegovina	18/08/1980	3000000	500000	54	CB	Emir Spahic	Sevilla FC	Anzhi	Loan
+Colombia	30/09/1986	4000000	400000	48	CB	Cristián Zapata	Villarreal CF	AC Milan	Loan
+Slovenia	9/03/1983	1200000	100000	56	CB	Marko Suler	KAA Gent	Legia Warszawa	Sell
+Germany	14/02/1987	500000	50000	59	LB	Fabian Schönheim	1.FSV Mainz 05	Union Berlin	Loan
+Slovakia	30/11/1989	4200000	5300000	67	CF	Vladimír Weiss	Olympiacos	Lekhwiya	Sell
+Argentina	4/03/1992	23000000	30000000	70	RW	Érik Lamela	AS Roma	Spurs	Sell
+Montenegro	2/11/1989	28000000	26000000	75	ST	Stevan Jovetic	Fiorentina	Man City	Sell
+Germany	10/07/1985	28000000	15500000	66	ST	Mario Gómez	Bayern Munich	Fiorentina	Sell
+Morocco	1/07/1989	4500000	1000000	67	RM	Mehdi Carcela-González	Anzhi	Standard Liège	Sell
+Argentina	2/01/1988	1000000	1000000	63	RM	Pablo Chavarría	RSC Anderlecht	Lens	Sell
+Croatia	27/08/1985	6500000	7800000	64	ST	Nikica Jelavic	Everton	Hull City	Sell
+Poland	19/02/1985	1500000	620000	64	LM	Slawomir Peszko	1. FC Köln	Parma	Sell
+Mexico	22/07/1983	3500000	4600000	64	ST	Aldo de Nigris	Monterrey	Guadalajara	Sell
+Poland	1/08/1988	900000	150000	63	RW	Patryk Malecki	Wisla Kraków	Pogon Szczecin	Sell
+Poland	13/11/1992	650000	300000	53	CF	Bartlomiej Pawlowski	Widzew Lodz	Málaga CF	Loan
+Tunisia	14/10/1986	3500000	2500000	64	ST	Saber Khalifa	Évian	Marseille	Sell
+United States	6/04/1982	1600000	2300000	68	ST	Hérculez Gómez	Santos	Club Tijuana	Sell
+Montenegro	27/07/1981	1500000	1650000	64	ST	Dejan Damjanovic	FC Seoul	JS Suning	Sell
+Italy	8/01/1982	2000000	1250000	66	ST	Emanuele Calaiò	Siena	SSC Napoli	Sell
+Portugal	8/08/1991	3000000	1000000	65	ST	Nélson Oliveira	Benfica	Stade Rennais	Loan
+France	27/12/1988	2000000	1000000	62	ST	Gaëtan Charbonnier	Montpellier	Reims	Sell
+Hungary	1/09/1988	600000	100000	63	RM	Gergő Lovrencsics	Pápai PFC	Lech Poznan	Sell
+Senegal	4/04/1986	300000	100000	57	LM	Pape Paté Diouf	FC Copenhagen	Molde FK	Sell
+Serbia	1/08/1988	27000000	25000000	70	CDM	Nemanja Matic	Benfica	Chelsea	Sell
+France	11/07/1988	13000000	11000000	69	CDM	Étienne Capoue	Toulouse	Spurs	Sell
+Algeria	29/02/1992	5000000	7500000	69	CM	Saphir Taider	Bologna	Inter	Sell
+Morocco	25/02/1990	14000000	10000000	74	CAM	Younès Belhanda	Montpellier	Dynamo Kyiv	Sell
+Argentina	14/04/1984	4000000	7500000	71	CAM	Wálter Montillo	Santos FC	SD Luneng	Sell
+Brazil	30/08/1993	1500000	2500000	64	CDM	Jádson	Botafogo	Udinese Calcio	Sell
+Brazil	10/03/1989	400000	1830000	59	CDM	Júnior Urso	Coritiba FC	SD Luneng	Sell
+Czech Republic	8/08/1990	7500000	4000000	73	CM	Vladimír Darida	Viktoria Plzen	SC Freiburg	Sell
+Montenegro	1/11/1993	2000000	2500000	60	CM	Marko Bakic	Torino	Fiorentina	Sell
+Slovenia	10/01/1989	2000000	4000000	68	CM	Jasmin Kurtic	US Palermo	Sassuolo	Sell
+Mexico	28/09/1986	6000000	1000000	73	LB	Andrés Guardado	Valencia CF	Bay. Leverkusen	Loan
+Uruguay	4/10/1987	400000	1000000	64	CDM	Ribair Rodríguez	Siena	Santos	Sell
+France	10/09/1989	2000000	700000	61	CDM	Younousse Sankharé	Dijon	Guingamp	Sell
+Romania	14/11/1989	8000000	9500000	65	CB	Vlad Chiriches	FCS Bucharest	Spurs	Sell
+Austria	6/03/1991	7000000	9000000	65	CB	Aleksandar Dragovic	FC Basel	Dynamo Kyiv	Sell
+Cameroon	20/06/1985	12000000	6300000	61	CB	Aurélien Chedjou	LOSC Lille	Galatasaray	Sell
+Italy	25/09/1984	6000000	6000000	61	CB	Matías Silvestre	US Palermo	Inter	Sell
+Colombia	30/09/1986	6000000	6000000	55	CB	Cristián Zapata	Villarreal CF	AC Milan	Sell
+Argentina	20/12/1980	3000000	5000000	47	CB	Martín Demichelis	Atlético Madrid	Man City	Sell
+France	22/12/1993	1500000	2500000	57	LM	Raphaël Guerreiro	SM Caen	FC Lorient	Sell
+Poland	4/11/1987	2000000	2200000	60	RB	Artur Jedrzejczyk	Legia Warszawa	Krasnodar	Sell
+Turkey	23/07/1987	3000000	1750000	65	RB	Serdar Kurtulus	Gaziantepspor	Besiktas	Sell
+Iceland	19/06/1986	1750000	4250000	51	CB	Ragnar Sigurdsson	FC Copenhagen	Krasnodar	Sell
+Argentina	8/07/1988	1000000	500000	64	CB	Santiago García	Rangers Talca	Werder Bremen	Loan
+Philippines	21/08/1986	1000000	500000	59	LM	Stephan Schröck	TSG Hoffenheim	E. Frankfurt	Sell
+Uruguay	1/04/1989	1300000	375000	63	RM	Matías Aguirregaray	Peñarol	Estudiantes	Sell
+France	21/07/1990	1750000	420000	60	LB	Fabrice N'Sakala	Troyes	RSC Anderlecht	Sell
+Portugal	24/01/1986	500000	130000	65	LB	Emídio Rafael	Platanias	Estoril	Sell
+Poland	25/04/1989	500000	200000	58	RB	Damian Zbozien	Piast Gliwice	Amkar Perm	Sell
+Germany	7/03/1986	1000000	80000	60	RB	Markus Steinhöfer	Real Betis	1860 Munich	Sell
+Serbia	22/05/1990	1100000	1100000	42	CB	Stefan Mitrovic	KV Kortrijk	Benfica	Sell
+Italy	25/09/1984	6000000	1000000	61	CB	Matías Silvestre	Inter	AC Milan	Loan
+France	14/06/1988	1000000	1000000	40	CB	Kévin Vinetot	Crotone	Genoa	Sell
+Paraguay	11/04/1987	500000	525000	53	CB	Adalberto Román	River Plate	Libertad	Sell
+Czech Republic	29/03/1988	4500000	500000	63	CB	Marek Suchy	Spartak Moscow	FC Basel	Loan
+Brazil	10/10/1990	4000000	500000	61	CB	Rafael Tolói	São Paulo	AS Roma	Loan
+Switzerland	13/03/1991	1000000	500000	57	CB	François Affolter	BSC Young Boys	FC Luzern	Sell
+Portugal	19/10/1991	2500000	500000	63	CB	Flávio Ferreira	Coimbra	Málaga CF	Sell
+Bosnia Herzegovina	18/08/1980	3000000	400000	55	CB	Emir Spahic	Sevilla FC	Bay. Leverkusen	Sell
+France	28/01/1982	1500000	300000	54	CB	Sébastien Puygrenier	AS Nancy	Karabükspor	Sell
+Germany	14/02/1987	800000	300000	60	CB	Fabian Schönheim	1.FSV Mainz 05	Union Berlin	Sell
+Croatia	27/10/1991	800000	250000	47	CB	Roberto Puncec	M. Tel Aviv	Union Berlin	Sell
+Sweden	4/04/1988	1000000	230000	38	CB	Michael Almebäck	Club Brugge	Bröndby IF	Sell
+Argentina	26/02/1992	1250000	100000	48	CB	Leandro González Pírez	River Plate	KAA Gent	Loan
+Poland	25/04/1989	500000	200000	58	RB	Damian Zbozien	Piast Gliwice	Amkar Perm	Sell
+Germany	7/03/1986	1000000	80000	60	RB	Markus Steinhöfer	Real Betis	1860 Munich	Sell
+Serbia	1/11/1992	2500000	6000000	64	LW	Filip Kostic	FC Groningen	VfB Stuttgart	Sell
+Serbia	2/03/1994	10000000	25000000	63	RM	Lazar Markovic	Benfica	Liverpool	Sell
+Spain	11/04/1985	8000000	5000000	69	LW	Pablo Hernández	Swansea	Al-Arabi	Sell
+Argentina	24/05/1994	3500000	4800000	57	LM	Rodrigo de Paul	Racing Club	Valencia CF	Sell
+Netherlands	26/03/1995	750000	3500000	53	LW	Bilal Basacikoglu	Heerenveen	Feyenoord	Sell
+Brazil	10/05/1990	400000	250000	55	LW	Diego Farias	Chievo Verona	Cagliari Calcio	Loan
+Belgium	19/04/1992	5000000	2000000	71	LM	Paul-José Mpoku	Standard Liège	Cagliari Calcio	Loan
+Albania	15/07/1988	2000000	1500000	65	RM	Shkelzen Gashi	Grasshoppers	FC Basel	Sell
+Serbia	16/01/1984	1700000	2000000	66	CAM	Miroslav Radovic	Legia Warszawa	HB CFFC	Sell
+Spain	4/01/1990	1800000	2000000	61	LM	Iago Falque	Spurs	Genoa	Sell
+Iceland	1/02/1989	9000000	8000000	66	ST	Alfred Finnbogason	Heerenveen	Real Sociedad	Sell
+Switzerland	8/08/1992	10000000	6800000	71	ST	Josip Drmic	1.FC Nuremberg	Bay. Leverkusen	Sell
+Argentina	17/05/1990	1800000	6600000	66	CF	Darío Benedetto	Club Tijuana	América	Sell
+France	3/03/1990	5000000	6320000	62	ST	Emmanuel Rivière	Monaco	Newcastle	Sell
+Brazil	20/01/1994	7000000	800000	67	LW	Lucas Piazón	Chelsea	E. Frankfurt	Loan
+Croatia	21/09/1993	4000000	600000	50	ST	Ante Rebic	Fiorentina	RB Leipzig	Loan
+Poland	19/02/1985	1000000	500000	64	LM	Slawomir Peszko	Parma	1. FC Köln	Sell
+Poland	13/11/1992	1000000	600000	55	CF	Bartlomiej Pawlowski	Widzew Lodz	Lechia Gdansk	Sell
+Slovenia	13/01/1989	5000000	4000000	59	ST	Tim Matavz	PSV Eindhoven	FC Augsburg	Sell
+Poland	3/06/1991	2000000	4000000	64	ST	Lukasz Teodorczyk	Lech Poznan	Dynamo Kyiv	Sell
+Mali	26/01/1986	2750000	2500000	65	ST	Mustapha Yatabaré	Guingamp	Trabzonspor	Sell
+Romania	2/12/1986	4000000	2400000	61	ST	Claudiu Keseru	FCS Bucharest	Al-Gharafa	Sell
+Iceland	11/03/1990	1300000	2250000	55	ST	Vidar Örn Kjartansson	Valerenga	JS Suning	Sell
+Croatia	14/09/1979	2000000	2000000	72	ST	Ivica Olic	VfL Wolfsburg	Hamburger SV	Sell
+Argentina	31/05/1984	1800000	1750000	65	ST	Matías Alustiza	CF Pachuca	Puebla	Sell
+Niger	25/08/1988	2000000	1500000	59	ST	Moussa Maazou	Marítimo	CC Yatai	Sell
+Slovenia	17/06/1991	1000000	750000	51	ST	Robert Beric	Sturm Graz	Rapid Vienna	Sell
+Poland	12/04/1995	300000	75000	52	RM	Przemyslaw Frankowski	Lechia Gdansk	J. Bialystok	Sell
+Germany	30/04/1992	20000000	12000000	30	GK	Marc-André ter Stegen	Bor. M'gladbach	FC Barcelona	Sell
+Argentina	30/07/1983	3800000	2000000	25	GK	Mariano Andújar	Catania	SSC Napoli	Sell
+Romania	30/03/1994	300000	1200000	25	GK	Laurentiu Branescu	Virtus Lanciano	Juventus	Sell
+Poland	26/11/1990	200000	200000	25	GK	Krzysztof Kaminski	Ruch Chorzow	Júbilo Iwata	Sell
+Croatia	25/07/1987	600000	150000	25	GK	Silvio Rodic	Slaven Belupo	Gornik Leczna	Sell
+Poland	15/08/1991	50000	150000	25	GK	Patryk Wolanski	Widzew Lodz	FC Midtjylland	Sell
+Senegal	21/12/1989	7000000	7500000	59	CB	Cheikhou Kouyaté	RSC Anderlecht	West Ham	Sell
+Turkey	5/09/1988	12000000	7000000	70	CM	Nuri Sahin	Real Madrid	Bor. Dortmund	Sell
+Croatia	10/03/1988	20000000	18000000	70	CAM	Ivan Rakitic	Sevilla FC	FC Barcelona	Sell
+Chile	17/04/1989	3000000	8000000	68	CM	Charles Aránguiz	Udinese Calcio	Internacional	Sell
+Turkey	30/09/1985	9000000	4000000	70	CAM	Olcan Adin	Trabzonspor	Galatasaray	Sell
+Argentina	28/10/1994	3000000	3000000	65	RM	Agustín Allione	CA Vélez	Palmeiras	Sell
+Argentina	28/01/1993	500000	660000	57	RM	Santiago Nagüel	Argentinos	Racing Club	Sell
+Austria	7/02/1994	400000	400000	52	CAM	Alessandro Schöpf	Bayern Munich	1.FC Nuremberg	Sell
+Brazil	10/04/1989	17000000	15000000	70	CAM	Éverton Ribeiro	Cruzeiro	Al-Ahli (UAE)	Sell
+Uruguay	21/03/1989	2000000	4920000	68	CAM	Nicolás Lodeiro	Corinthians	Boca Juniors	Sell
+Uzbekistan	25/11/1987	6000000	4000000	67	CDM	Odil Akhmedov	Anzhi	Krasnodar	Sell
+Colombia	11/07/1988	850000	3300000	59	CDM	Alexander Mejía	Atl. Nacional	Monterrey	Sell
+Switzerland	14/11/1985	1500000	1300000	63	CDM	Veroljub Salatic	Grasshoppers	FC Sion	Sell
+Switzerland	12/04/1986	9500000	2350000	72	CDM	Blerim Dzemaili	SSC Napoli	Galatasaray	Sell
+Argentina	15/03/1989	1200000	1600000	70	CM	Héctor Canteros	CA Vélez	Flamengo	Sell
+Argentina	12/04/1988	14500000	1500000	74	CF	Ricardo Álvarez	Inter	Sunderland	Loan
+Uruguay	4/09/1989	1000000	1300000	61	RM	Diego Rodríguez	CD Godoy Cruz	Independiente	Sell
+Brazil	21/04/1987	5000000	1250000	70	CDM	Nílton	Cruzeiro	Internacional	Sell
+Poland	28/04/1991	850000	800000	60	CDM	Daniel Lukasik	Legia Warszawa	Lechia Gdansk	Sell
+Serbia	7/04/1991	2000000	600000	59	CM	Luka Milivojevic	RSC Anderlecht	Olympiacos	Loan
+Ivory Coast	7/11/1984	3000000	600000	66	CDM	Geoffroy Serey Dié	FC Basel	VfB Stuttgart	Sell
+Mexico	7/08/1979	1200000	1500000	67	CM	Juan Pablo Rodríguez	Santos	Atlas	Loan
+Poland	3/04/1992	1200000	1400000	58	CM	Michal Chrapek	Wisla Kraków	Catania	Sell
+Slovenia	10/01/1989	4000000	500000	68	CDM	Jasmin Kurtic	Sassuolo	Fiorentina	Loan
+Greece	31/08/1991	800000	500000	64	CAM	Petros Mantalos	AO Xanthi	AEK FC	Sell
+Bosnia Herzegovina	20/11/1993	1000000	1000000	55	CM	Sanjin Prcic	FC Sochaux	Stade Rennais	Sell
+Algeria	29/02/1992	8000000	1000000	72	CM	Saphir Taider	Inter	Sassuolo	Loan
+Brazil	11/07/1990	200000	100000	56	CAM	Vitor Saba	Brescia	Western Sydney	Sell
+Slovenia	9/09/1986	500000	100000	64	CM	Goran Cvijanovic	NK Maribor	HNK Rijeka	Sell
+Germany	21/06/1989	500000	60000	57	LM	Patrick Schönfeld	Arm. Bielefeld	Erzgebirge Aue	Sell
+Brazil	11/07/1990	200000	100000	56	CAM	Vitor Saba	Brescia	Western Sydney	Sell
+Morocco	17/04/1987	28000000	28000000	60	CB	Medhi Benatia	AS Roma	Bayern Munich	Sell
+Argentina	12/02/1988	12000000	12000000	58	CB	Nicolás Otamendi	FC Porto	Valencia CF	Sell
+Romania	29/10/1988	6000000	6800000	59	CB	Florin Gardos	FCS Bucharest	Southampton	Sell
+Netherlands	11/02/1989	3500000	5500000	70	LB	Alexander Büttner	Man Utd	Dinamo Moscow	Sell
+Croatia	10/01/1992	7500000	5500000	68	RM	Sime Vrsaljko	Genoa	Sassuolo	Sell
+Brazil	8/04/1991	800000	2000000	65	RB	Luís Felipe	Palmeiras	Benfica	Sell
+Costa Rica	8/02/1988	600000	3800000	59	CB	Giancarlo González	Columbus Crew	US Palermo	Sell
+Belgium	1/08/1987	2500000	1500000	68	LB	Sébastien Pocognoli	Hannover 96	West Brom	Sell
+Argentina	8/07/1988	2000000	1500000	64	LB	Santiago García	Rangers Talca	Werder Bremen	Sell
+Czech Republic	20/12/1988	1500000	1450000	66	LM	Adam Hlousek	1.FC Nuremberg	VfB Stuttgart	Sell
+Greece	27/06/1984	2500000	1000000	69	LB	José Holebas	Olympiacos	AS Roma	Sell
+Czech Republic	29/03/1988	3200000	2500000	61	CB	Marek Suchy	Spartak Moscow	FC Basel	Sell
+Serbia	25/11/1991	2500000	2500000	45	CB	Nikola Maksimovic	Red Star	Torino	Sell
+Poland	20/05/1995	1200000	2500000	46	CDM	Pawel Dawidowicz	Lechia Gdansk	Benfica B	Sell
+Philippines	21/08/1986	1000000	200000	59	LM	Stephan Schröck	E. Frankfurt	Greuther Fürth	Sell
+Australia	10/09/1987	600000	200000	62	RW	Ivan Franjic	Brisbane Roar	Torpedo Moscow	Sell
+Serbia	22/05/1990	1000000	1500000	45	CB	Stefan Mitrovic	Benfica	SC Freiburg	Sell
+Romania	7/09/1986	2500000	1000000	58	CB	Dragos Grigore	Dinamo Bukarest	Toulouse	Sell
+Argentina	14/03/1991	1500000	820000	57	LB	Wálter Kannemann	San Lorenzo	Atlas	Sell
+Denmark	14/04/1992	4500000	800000	50	CB	Frederik Sörensen	Bologna	Juventus	Sell
+Uruguay	7/02/1989	1500000	500000	50	CB	Alexis Rolín	Catania	Boca Juniors	Loan
+Algeria	1/01/1989	1000000	450000	40	CB	Essaïd Belkalem	Watford	Trabzonspor	Loan
+Turkey	25/07/1988	5000000	400000	66	RB	Veysel Sari	Galatasaray	Kasimpasa	Sell
+Uruguay	21/03/1984	500000	360000	51	CB	Guillermo Rodríguez	Torino	Hellas Verona	Sell
+Denmark	14/04/1992	3000000	300000	50	CB	Frederik Sörensen	Juventus	Hellas Verona	Loan
+Korea Republic	8/07/1992	16000000	30000000	69	LM	Heung-Min Son	Bay. Leverkusen	Spurs	Sell
+Peru	26/10/1984	7000000	7000000	77	RM	Jefferson Farfán	FC Schalke 04	Al-Jazira	Sell
+Spain	4/01/1990	8000000	7000000	63	RW	Iago Falque	Genoa	AS Roma	Sell
+Colombia	3/10/1986	30000000	42000000	72	ST	Jackson Martínez	Atlético Madrid	GZ Evergrande	Sell
+Colombia	3/10/1986	35000000	37100000	72	ST	Jackson Martínez	FC Porto	Atlético Madrid	Sell
+Serbia	16/09/1994	11000000	18500000	61	ST	Aleksandar Mitrovic	RSC Anderlecht	Newcastle	Sell
+Morocco	1/07/1989	3500000	2500000	69	RM	Mehdi Carcela-González	Standard Liège	Benfica	Sell
+Turkey	7/07/1987	6500000	2500000	68	RM	Volkan Sen	Bursaspor	Fenerbahce	Sell
+Switzerland	8/08/1992	8000000	10000000	69	ST	Josip Drmic	Bay. Leverkusen	Bor. M'gladbach	Sell
+Turkey	15/07/1985	7000000	8000000	71	ST	Burak Yilmaz	Galatasaray	BJ Sinobo Guoan	Sell
+Serbia	29/09/1991	13500000	1750000	69	LW	Adem Ljajic	AS Roma	Inter	Loan
+Spain	4/01/1990	8000000	1000000	63	RW	Iago Falque	Genoa	AS Roma	Loan
+Bosnia Herzegovina	17/03/1986	20000000	4000000	66	ST	Edin Dzeko	Man City	AS Roma	Loan
+Serbia	19/12/1994	1000000	550000	63	CAM	Nikola Ninkovic	Partizan	Chievo Verona	Sell
+Montenegro	2/11/1989	15000000	2500000	74	ST	Stevan Jovetic	Man City	Inter	Loan
+Argentina	20/08/1984	4000000	2000000	57	ST	Joaquín Larrivey	Celta de Vigo	Baniyas SC	Sell
+Switzerland	8/08/1992	8000000	1200000	69	ST	Josip Drmic	Bor. M'gladbach	Hamburger SV	Loan
+Iceland	1/02/1989	4000000	1000000	66	ST	Alfred Finnbogason	Real Sociedad	Olympiacos	Loan
+Bosnia Herzegovina	20/06/1987	12000000	11000000	26	GK	Asmir Begovic	Stoke City	Chelsea	Sell
+France	11/07/1988	7500000	8900000	67	CDM	Étienne Capoue	Spurs	Watford	Sell
+Poland	14/12/1985	10000000	1000000	71	RM	Jakub Blaszczykowski	Bor. Dortmund	Fiorentina	Loan
+Argentina	12/04/1988	10000000	10500000	73	RM	Ricardo Álvarez	Inter	Sunderland	Sell
+Netherlands	3/02/1990	3500000	3500000	70	CM	Marko Vejinović	Vitesse	Feyenoord	Sell
+Mexico	28/09/1986	7500000	2800000	73	CM	Andrés Guardado	Valencia CF	PSV Eindhoven	Sell
+Argentina	10/04/1986	6000000	4000000	66	CM	Augusto Fernández	Celta de Vigo	Atlético Madrid	Sell
+Spain	6/01/1994	12000000	4000000	66	CAM	Denis Suárez	FC Barcelona	Villarreal CF	Sell
+Czech Republic	8/08/1990	5500000	3800000	69	CM	Vladimír Darida	SC Freiburg	Hertha BSC	Sell
+Argentina	12/02/1988	25000000	44600000	63	CB	Nicolás Otamendi	Valencia CF	Man City	Sell
+Montenegro	8/01/1991	15000000	25000000	54	CB	Stefan Savic	Fiorentina	Atlético Madrid	Sell
+Serbia	28/03/1993	14000000	9500000	46	CB	Matija Nastasic	Man City	FC Schalke 04	Sell
+Greece	27/06/1984	2000000	2500000	72	LB	José Holebas	AS Roma	Watford	Sell
+Serbia	18/08/1984	5500000	10500000	72	RB	Dusan Basta	Udinese Calcio	Lazio	Sell
+Romania	14/11/1989	6000000	7000000	69	CB	Vlad Chiriches	Spurs	SSC Napoli	Sell
+Serbia	1/11/1992	10000000	14000000	68	LM	Filip Kostic	VfB Stuttgart	Hamburger SV	Sell
+Serbia	29/09/1991	12000000	9000000	73	LW	Adem Ljajic	AS Roma	Torino	Sell
+Montenegro	2/11/1989	10000000	13500000	72	ST	Stevan Jovetic	Man City	Inter	Sell
+DR Congo	19/04/1992	4000000	4000000	72	LM	Paul-José Mpoku	Standard Liège	Chievo Verona	Sell
+Morocco	1/07/1989	5000000	4000000	68	LM	Mehdi Carcela-González	Benfica	Granada CF	Sell
+Colombia	14/02/1991	1000000	3250000	59	RW	Orlando Berrío	Atl. Nacional	Flamengo	Sell
+Iceland	27/10/1990	2000000	3000000	67	RM	Johann Berg Gudmundsson	Charlton	Burnley	Sell
+Argentina	24/05/1994	2500000	3000000	64	LM	Rodrigo de Paul	Valencia CF	Udinese Calcio	Sell
+Czech Republic	1/05/1992	5500000	9400000	63	ST	Matej Vydra	Watford	Derby	Sell
+Colombia	17/06/1992	1200000	2690000	62	LM	Fabián Castillo	FC Dallas	Trabzonspor	Loan
+Guinea	1/05/1996	2500000	2500000	58	RM	François Kamano	SC Bastia	G. Bordeaux	Sell
+Argentina	26/07/1994	4500000	2500000	62	RM	Héctor Villalba	San Lorenzo	Atlanta United	Sell
+Burkina Faso	6/09/1995	4000000	2000000	69	ST	Bertrand Traoré	Chelsea	AFC Ajax	Loan
+Senegal	3/06/1985	7500000	5850000	72	ST	Papiss Demba Cissé	Newcastle	SD Luneng	Sell
+Portugal	8/08/1991	3000000	5850000	68	ST	Nélson Oliveira	Benfica	Norwich	Sell
+Colombia	8/02/1989	950000	950000	67	CAM	Vladimir Hernández	Junior FC	Santos FC	Sell
+Colombia	17/06/1992	1200000	950000	62	LM	Fabián Castillo	FC Dallas	Trabzonspor	Sell
+Argentina	15/02/1987	1600000	900000	63	RW	Fabián Bordagaray	Defensa	CA Rosario	Sell
+Croatia	31/07/1989	1000000	500000	61	CAM	Vedran Jugovic	HNK Rijeka	Jeonnam Dragons	Sell
+Denmark	15/01/1991	2500000	3500000	68	ST	Nicolai Jörgensen	FC Copenhagen	Feyenoord	Sell
+Serbia	19/12/1994	1000000	550000	63	CAM	Nikola Ninkovic	Chievo Verona	Genoa	Sell
+DR Congo	19/04/1992	3500000	500000	72	LM	Paul-José Mpoku	Chievo Verona	Panathinaikos	Loan
+Chile	30/01/1991	550000	450000	59	ST	Ronnie Fernández	Wanderers	Deportivo Cali	Sell
+Hungary	31/12/1987	3500000	3000000	66	ST	Nemanja Nikolics	Legia Warszawa	Chicago Fire	Sell
+Germany	9/02/1993	1300000	2200000	63	ST	Niclas Füllkrug	1.FC Nuremberg	Hannover 96	Sell
+Argentina	31/05/1984	1800000	2000000	69	ST	Matías Alustiza	Puebla	Atlas	Sell
+Switzerland	21/04/1990	1500000	1900000	55	ST	Aleksandar Prijovic	Legia Warszawa	PAOK Saloniki	Sell
+Argentina	20/01/1992	3600000	1800000	62	RW	Sebastián Palacios	Boca Juniors	CA Talleres	Sell
+Ivory Coast	25/12/1991	600000	1200000	54	ST	Mamadou Koné	Racing	Grupo I	Sell
+Greece	5/03/1993	1000000	900000	62	ST	Dimitrios Diamantakos	Olympiacos	Karlsruher SC	Sell
+Poland	19/08/1997	2500000	2500000	21	GK	Bartlomiej Dragowski	J. Bialystok	Fiorentina	Sell
+Poland	26/10/1987	900000	1000000	19	GK	Rafal Gikiewicz	E. Braunschweig	SC Freiburg	Sell
+Austria	18/01/1990	750000	500000	22	GK	Jörg Siebenhandl	Admira Wacker	Würzb. Kickers	Sell
+Argentina	30/07/1983	1500000	455000	32	GK	Mariano Andújar	SSC Napoli	Estudiantes	Sell
+Belgium	31/05/1979	500000	100000	33	GK	Jean-François Gillet	Catania	C	Sell
+Belgium	31/05/1979	500000	100000	33	GK	Jean-François Gillet	Catania	C	Sell
+Serbia	7/04/1991	8000000	15100000	61	CDM	Luka Milivojevic	Olympiacos	Crystal Palace	Sell
+Bosnia Herzegovina	2/04/1990	35000000	32000000	71	CM	Miralem Pjanic	AS Roma	Juventus	Sell
+Poland	20/05/1994	12000000	14000000	64	CM	Piotr Zielinski	Udinese Calcio	SSC Napoli	Sell
+Poland	14/12/1985	7000000	5000000	69	RM	Jakub Blaszczykowski	Bor. Dortmund	VfL Wolfsburg	Sell
+Australia	3/08/1984	5000000	4600000	67	CDM	Mile Jedinak	Crystal Palace	Aston Villa	Sell
+Senegal	10/09/1989	3500000	3000000	67	CDM	Younousse Sankharé	LOSC Lille	G. Bordeaux	Sell
+Chile	8/10/1990	4000000	3500000	69	CM	Felipe Gutiérrez	FC Twente	Real Betis	Sell
+Spain	6/01/1994	12000000	3250000	69	LM	Denis Suárez	Villarreal CF	FC Barcelona	Sell
+Turkey	26/05/1987	4000000	200000	67	LM	Olcay Sahan	Besiktas	Trabzonspor	Sell
+Uruguay	21/03/1989	5000000	5460000	71	CAM	Nicolás Lodeiro	Boca Juniors	Sounders FC	Sell
+Croatia	18/06/1996	10000000	5000000	63	CAM	Alen Halilovic	FC Barcelona	Hamburger SV	Sell
+Argentina	15/03/1988	4200000	4600000	63	LM	Sebastián Blanco	San Lorenzo	Timbers	Sell
+Argentina	21/05/1993	6000000	2000000	66	CDM	Matías Kranevitter	Atlético Madrid	Sevilla FC	Loan
+Turkey	23/03/1992	2500000	3000000	65	CM	Tolga Cigerci	Hertha BSC	Galatasaray	Sell
+Morocco	7/07/1996	2000000	3000000	60	CM	Youssef Aït Bennasser	AS Nancy	Monaco	Sell
+Congo	4/11/1988	2000000	2200000	67	CM	Prince Oniangué	Reims	Wolves	Sell
+Argentina	11/10/1991	800000	1350000	63	CM	Guillermo Fernández	Boca Juniors	CD Godoy Cruz	Sell
+Switzerland	12/04/1986	3500000	1300000	68	CM	Blerim Dzemaili	Galatasaray	Bologna	Sell
+Poland	10/11/1992	1000000	500000	64	CAM	Rafal Wolski	Fiorentina	Lechia Gdansk	Sell
+Poland	27/05/1991	1000000	500000	65	CAM	Filip Starzynski	KSC Lokeren	Zaglebie Lubin	Sell
+France	9/03/1995	800000	500000	60	CM	Baptiste Santamaría	Tours FC	SCO Angers	Sell
+Gabon	1/01/1993	2000000	400000	68	CM	André Biyogo Poko	G. Bordeaux	Karabükspor	Sell
+Finland	18/06/1991	500000	500000	59	CM	Rasmus Schüller	Häcken	Minnesota Utd.	Sell
+Argentina	6/02/1990	550000	225000	59	LW	Jonathan Zacaría	Quilmes	U. de Chile	Sell
+Austria	6/03/1991	15000000	18000000	67	CB	Aleksandar Dragovic	Dynamo Kyiv	Bay. Leverkusen	Sell
+Portugal	22/12/1993	9000000	12000000	70	LM	Raphaël Guerreiro	FC Lorient	Bor. Dortmund	Sell
+Croatia	10/01/1992	13000000	16000000	70	RB	Sime Vrsaljko	Sassuolo	Atlético Madrid	Sell
+Serbia	25/11/1991	7000000	5000000	49	CB	Nikola Maksimovic	Torino	SSC Napoli	Loan
+Uruguay	7/10/1990	6000000	4720000	42	CB	Sebastián Coates	Sunderland	Sporting CP	Sell
+Iceland	19/06/1986	6000000	4700000	56	CB	Ragnar Sigurdsson	Krasnodar	Fulham	Sell
+Argentina	15/01/1989	4000000	1500000	70	LB	Emmanuel Más	San Lorenzo	Trabzonspor	Sell
+Ecuador	12/08/1994	1500000	1500000	55	LB	Cristian Ramírez	Ferencváros	Krasnodar	Sell
+Italy	15/05/1992	1000000	4000000	33	CB	Gianmarco Ferrari	Crotone	Sassuolo	Sell
+Bosnia Herzegovina	11/02/1987	4000000	2800000	66	CB	Ervin Zukanovic	Sampdoria	AS Roma	Sell
+Serbia	15/08/1991	2000000	1200000	65	LB	Filip Mladenovic	1. FC Köln	Standard Liège	Sell
+Slovenia	25/06/1991	500000	300000	59	RB	Boban Jovic	Wisla Kraków	Bursaspor	Sell
+France	21/10/1990	1500000	2000000	44	CB	Mathieu Peybernes	SC Bastia	FC Lorient	Sell
+Argentina	26/02/1992	2600000	1870000	49	CB	Leandro González Pírez	Estudiantes	Atlanta United	Sell
+Serbia	3/02/1989	1500000	1500000	42	CB	Slobodan Rajkovic	SV Darmstadt 98	US Palermo	Sell
+Serbia	22/05/1990	2000000	1500000	54	CB	Stefan Mitrovic	SC Freiburg	KAA Gent	Sell
+Bosnia Herzegovina	11/02/1987	3800000	1000000	66	CB	Ervin Zukanovic	AS Roma	Atalanta	Loan
+Hungary	16/04/1987	850000	1000000	47	CB	Richárd Guzmics	Wisla Kraków	YB Funde	Sell
+Uruguay	7/02/1989	1400000	1000000	50	CB	Alexis Rolín	Catania	C	Sell
+Argentina	14/03/1991	1500000	905000	50	CB	Wálter Kannemann	Atlas	Grêmio	Sell
+Germany	4/07/1989	2250000	800000	50	CB	Benjamin Hübner	FC Ingolstadt	TSG Hoffenheim	Sell
+Serbia	10/12/1988	8000000	500000	50	CB	Neven Subotic	Bor. Dortmund	1. FC Köln	Loan
+Italy	1/08/1989	1300000	500000	48	CB	Nicolò Brighenti	Vicenza	Frosinone	Sell
+Poland	6/08/1991	400000	500000	41	CB	Jakub Czerwinski	Pogon Szczecin	Legia Warszawa	Sell
+Poland	20/04/1987	500000	300000	47	CB	Maciej Dabrowski	Zaglebie Lubin	Legia Warszawa	Sell
+Austria	19/04/1989	15000000	22300000	74	LM	Marko Arnautovic	Stoke City	West Ham	Sell
+Spain	4/07/1995	6000000	5500000	65	RWB	Álex Berenguer	CA Osasuna	Torino	Sell
+Burkina Faso	6/09/1995	8000000	10000000	68	RW	Bertrand Traoré	Chelsea	Olympique Lyon	Sell
+France	25/05/1993	2500000	4000000	59	CAM	Pierre Lees Melou	Dijon	OGC Nice	Sell
+Chile	27/01/1986	3000000	3000000	68	RW	Fabián Orellana	Celta de Vigo	Valencia CF	Sell
+Argentina	9/02/1996	8000000	15000000	67	ST	Sebastián Driussi	River Plate	Zenit S-Pb	Sell
+England	29/07/1989	10000000	13700000	70	LM	Jay Rodríguez	Southampton	West Brom	Sell
+DR Congo	19/04/1992	3000000	1800000	72	LM	Paul-José Mpoku	Chievo Verona	Standard Liège	Sell
+Slovakia	27/07/1994	750000	850000	58	RM	Jaroslav Mihalik	Slavia Prag	Cracovia Kraków	Sell
+France	22/06/1994	8000000	7000000	62	ST	Sébastien Haller	FC Utrecht	E. Frankfurt	Sell
+Croatia	5/01/1988	20000000	5000000	68	ST	Nikola Kalinic	Fiorentina	AC Milan	Loan
+France	17/06/1991	9000000	5000000	63	ST	Grégoire Defrel	Sassuolo	AS Roma	Loan
+Netherlands	22/03/1994	2200000	1500000	66	RM	Jean-Paul Boëtius	FC Basel	Feyenoord	Sell
+Poland	3/06/1991	12500000	4500000	65	ST	Lukasz Teodorczyk	Dynamo Kyiv	RSC Anderlecht	Sell
+Turkey	15/07/1985	5200000	3500000	66	ST	Burak Yilmaz	BJ Sinobo Guoan	Trabzonspor	Sell
+France	6/08/1985	5000000	2500000	62	ST	Bafétimbi Gomis	Swansea	Galatasaray	Sell
+Chile	18/04/1993	500000	1880000	61	ST	Angelo Sagal	Huachipato FC	CF Pachuca	Sell
+Spain	30/07/1991	600000	500000	57	ST	Alejandro Rodríguez	AC Cesena	Chievo Verona	Sell
+Spain	14/02/1986	700000	350000	63	ST	David Rodríguez	AD Alcorcón	CA Osasuna	Sell
+Norway	5/12/1995	850000	350000	58	ST	Alexander Sörloth	FC Groningen	FC Midtjylland	Sell
+Serbia	23/12/1997	2000000	200000	63	ST	Luka Jovic	Benfica B	E. Frankfurt	Loan
+Armenia	10/05/1986	650000	105000	52	ST	Mauro Guevgeozián	CA Temperley	Newell's	Loan
+Spain	22/01/1991	1000000	3500000	66	CAM	Samu Sáiz	SD Huesca	Leeds	Sell
+Armenia	10/05/1986	650000	105000	52	ST	Mauro Guevgeozián	CA Temperley	Newell's	Loan
+Poland	18/04/1990	17000000	12200000	27	GK	Wojciech Szczesny	Arsenal	Juventus	Sell
+Bosnia Herzegovina	20/06/1987	8000000	11500000	30	GK	Asmir Begovic	Chelsea	Bournemouth	Sell
+Switzerland	2/10/1984	1000000	2300000	31	GK	Eldin Jakupovic	Hull City	Leicester	Sell
+Serbia	24/01/1992	1000000	1000000	30	GK	Marko Dmitrovic	AD Alcorcón	SD Eibar	Sell
+Serbia	1/08/1988	35000000	44700000	71	CDM	Nemanja Matic	Chelsea	Man Utd	Sell
+Norway	21/06/1990	5000000	8000000	66	CDM	Havard Nordtveit	West Ham	TSG Hoffenheim	Sell
+Argentina	21/05/1993	6000000	8000000	64	CDM	Matías Kranevitter	Atlético Madrid	Zenit S-Pb	Sell
+Uruguay	24/08/1991	13000000	24000000	68	CM	Matías Vecino	Fiorentina	Inter	Sell
+Turkey	29/01/1996	1000000	450000	62	RM	Orkan Cinar	Gaziantepspor	Besiktas	Sell
+Mexico	28/09/1986	6000000	2500000	72	CM	Andrés Guardado	PSV Eindhoven	Real Betis	Sell
+Ivory Coast	11/09/1992	1250000	1600000	60	CDM	Cheick Doukouré	FC Metz	Levante UD	Sell
+Poland	21/09/1992	900000	1500000	62	CDM	Jacek Goralski	J. Bialystok	Ludogorets	Sell
+Algeria	29/02/1992	5000000	4000000	72	CM	Saphir Taider	Inter	Bologna	Sell
+Poland	22/04/1994	650000	650000	62	CM	Radoslaw Murawski	Piast Gliwice	US Palermo	Sell
+Serbia	9/01/1992	600000	100000	62	CDM	Aleksandar Kovacevic	Lechia Gdansk	FK Haugesund	Sell
+Spain	30/05/1992	300000	100000	60	CDM	Borja Domínguez	Córdoba CF	AD Alcorcón	Sell
+Germany	3/03/1993	25000000	35000000	63	CB	Antonio Rüdiger	AS Roma	Chelsea	Sell
+Serbia	25/11/1991	10000000	20000000	49	CB	Nikola Maksimovic	Torino	SSC Napoli	Sell
+Netherlands	9/09/1996	5000000	9000000	68	CB	Jairo Riedewald	AFC Ajax	Crystal Palace	Sell
+France	1/11/1990	7500000	5000000	75	RB	Sébastien Corchia	LOSC Lille	Sevilla FC	Sell
+Poland	11/06/1994	1500000	1500000	64	RB	Tomasz Kedziora	Lech Poznan	Dynamo Kyiv	Sell
+Spain	28/07/1993	500000	1000000	60	RB	Gerard Valentín	Gimnàstic	Dep. La Coruña	Sell
+Argentina	28/01/1994	750000	680000	59	RB	Leonel Di Placido	All Boys	CA Lanús	Sell
+Georgia	6/02/1992	3500000	2500000	41	CB	Solomon Kvirkvelia	Rubin Kazan	Loko Moscow	Sell
+Cameroon	27/03/1990	7500000	500000	64	CB	Nicolas N'Koulou	Olympique Lyon	Torino	Loan
+Argentina	27/06/1991	6000000	500000	53	CB	Germán Pezzella	Real Betis	Fiorentina	Loan
+Guinea	20/03/1992	800000	500000	58	RB	Baissama Sankoh	Guingamp	SM Caen	Sell
+Serbia	16/01/1991	450000	350000	58	CB	Nemanja Miletic	KVC Westerlo	Partizan	Sell
+Romania	5/04/1984	800000	300000	67	RB	Cristian Sapunaru	Astra Giurgiu	Kayserispor	Sell
+Colombia	9/01/1990	1000000	200000	46	CB	Rafael Pérez	CSKA Sofia	Junior FC	Sell
+Belgium	3/01/1994	1000000	200000	53	CB	Michaël Heylen	RSC Anderlecht	Zulte Waregem	Sell
+Serbia	2/04/1991	500000	250000	54	LB	Milan Rodic	KS Samara	Red Star	Sell
